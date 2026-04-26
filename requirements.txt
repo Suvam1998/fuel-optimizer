@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+pandas
+requests
+gunicorn
+python-dotenv
+polyline
+geopy
